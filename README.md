@@ -5,7 +5,7 @@ A very simple snake game
 ```javascript
 
 function pranaxxe(me) {
-    return me.awesome
- }
+  return me.awesome
+}
 
 ```
